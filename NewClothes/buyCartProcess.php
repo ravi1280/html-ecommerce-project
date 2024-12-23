@@ -41,7 +41,7 @@ if ($address_num > 0) {
     $item = "NewClothes Products";
     $merchant_id = 1221660;
     $currency = "LKR";
-    $merchant_secret = "**";
+    $merchant_secret = "";
     $amount = $total;
     $fname = $user["fname"];
     $lname = $user["lname"];
